@@ -91,6 +91,8 @@ This will create a `dist/` directory with the optimized production build.
 
 ## ☁️ Deployment
 
+https://weather-forecast-9l18.vercel.app
+
 The application is configured for easy deployment on several platforms:
 
 - **Netlify**: The `netlify.toml` file contains the necessary configuration. Connect your repository to Netlify for automatic builds and deploys.
